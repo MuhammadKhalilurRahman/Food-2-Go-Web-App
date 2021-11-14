@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": ".html 1",
+			"path": "..\\..\\Pictures\\.html 1"
+		},
+		{
+			"name": "first web page.html",
+			"path": "..\\first web page.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "first web page.html"
+	}
+}
